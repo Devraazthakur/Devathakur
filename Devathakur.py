@@ -1,9 +1,9 @@
 #created by xerx aka Aryan chaudhary
 #open source by xerx
-#github= Devathakur
-# JAI MAHAKAL
-#JAI BHARAT
-# fb id https://https://www.facebook.com/dev.thakur.01689
+#github= XERX-XD
+#BY BY MEY KABHI WAPIS NAHI AAUNGA AB 
+#JAI NEPAL
+# fb id https://www.facebook.com/aaryan.chaudhary69
 
 
 from bs4 import BeautifulSoup as sop
